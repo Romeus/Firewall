@@ -14,7 +14,7 @@ How to use firewall:
         $ pip install mitmproxy  
 
 2. Edit file 'whitelist.txt'. It contains list of domains  
-   Note: That file must no contain any space before or after domain names.
+   Note: That file must no contain any spaces before or after domain names.
 
 3. Edit file 'access_denied_template.html'. It's name is self described. '$URL' is placeholder for domain name. 
 
