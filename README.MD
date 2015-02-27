@@ -20,6 +20,7 @@ How to use firewall:
 4. Configure your web client's (e.g. your browser) proxy settings to firewall's bind address: 127.0.0.1:8080 
 
 5. Run firewall from command line:
-   $./firewall.py 
+
+   $ ./firewall.py 
 
 6. Test it!
