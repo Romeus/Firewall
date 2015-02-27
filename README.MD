@@ -1,6 +1,7 @@
 How to use firewall:
 
 1. Install mitmproxy
+
    1.1. Install prerequisites as described here:
 
         http://mitmproxy.org/doc/install.html  
